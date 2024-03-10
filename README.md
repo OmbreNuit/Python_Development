@@ -1,2 +1,2 @@
 # Python_Development
-This repository the code for all of my python projects.
+This repository contains the code for all my python projects.
